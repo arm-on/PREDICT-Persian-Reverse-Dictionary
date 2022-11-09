@@ -3,7 +3,7 @@ A reverse dictionary takes a description of a concept as input, and produces the
 
 # Project Files
 
-All of the files needed to run the jupyter notebooks are uploaded on Google Drive, and are accessible through [this link](https://drive.google.com/drive/folders/1btYXLaRELKc_5-3z-b_RhYXz2DR80Uns?usp=sharing).
+All of the files needed to run the jupyter notebooks are uploaded on Google Drive, and are accessible through [this link](https://drive.google.com/drive/folders/1LXVtQlrHI4hoMWGb7pt9wjIeML6AgJv4?usp=share_link).
 
 # Dataset
 
